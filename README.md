@@ -1,1 +1,1 @@
-# c plus plus
+# c++
